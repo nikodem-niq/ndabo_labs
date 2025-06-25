@@ -14,6 +14,9 @@ const Navigation = () => {
           <Link href="/app/about" className="hover:text-gray-300">
             O nas
           </Link>
+          <Link href="/app/pricing" className="hover:text-gray-300">
+            Cennik
+          </Link>
           <Link href="/app/contact" className="hover:text-gray-300">
             Kontakt
           </Link>
