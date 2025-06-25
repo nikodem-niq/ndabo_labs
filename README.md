@@ -13,12 +13,12 @@ Prosta aplikacja stworzona na potrzeby zaliczenia przedmiotu "Narzędzia do auto
 
 1.  **Klonowanie repozytorium**
     ```bash
-    git clone <tutaj_wklej_adres_swojego_repozytorium>
+    git clone https://github.com/nikodem-niq/ndabo_labs
     ```
 
 2.  **Przejście do katalogu projektu**
     ```bash
-    cd <nazwa_katalogu_z_projektem>
+    cd ndabo_labs
     ```
 
 3.  **Instalacja zależności** (używamy pnpm)
