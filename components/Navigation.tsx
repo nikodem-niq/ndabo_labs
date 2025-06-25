@@ -11,10 +11,10 @@ const Navigation = () => {
           <Link href="/" className="hover:text-gray-300">
             Strona główna
           </Link>
-          <Link href="/about" className="hover:text-gray-300">
+          <Link href="/app/about" className="hover:text-gray-300">
             O nas
           </Link>
-          <Link href="/contact" className="hover:text-gray-300">
+          <Link href="/app/contact" className="hover:text-gray-300">
             Kontakt
           </Link>
         </div>
