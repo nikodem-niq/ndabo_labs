@@ -1,36 +1,52 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Projekt zaliczeniowy - Nikodem Zychma
 
-## Getting Started
+Prosta aplikacja stworzona na potrzeby zaliczenia przedmiotu "Narzędzia do automatyzacji budowy oprogramowania". Projekt ten wykorzystuje Next.js i demonstruje podstawowe oraz zaawansowane techniki pracy z Git, GitHub oraz CI/CD.
 
-First, run the development server:
+## Funkcjonalności
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- Aplikacja oparta o framework Next.js.
+- Wykorzystanie Gita do kontroli wersji.
+- Zastosowanie GitHub Flow do zarządzania zmianami.
+- Skonfigurowany pipeline CI/CD do automatycznych testów i wdrożeń.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Instalacja i uruchomienie
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+1.  **Klonowanie repozytorium**
+    ```bash
+    git clone <tutaj_wklej_adres_swojego_repozytorium>
+    ```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+2.  **Przejście do katalogu projektu**
+    ```bash
+    cd <nazwa_katalogu_z_projektem>
+    ```
 
-## Learn More
+3.  **Instalacja zależności** (używamy pnpm)
+    ```bash
+    pnpm install
+    ```
 
-To learn more about Next.js, take a look at the following resources:
+4.  **Uruchomienie serwera deweloperskiego**
+    ```bash
+    pnpm dev
+    ```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Otwórz [http://localhost:3000](http://localhost:3000) w przeglądarce, aby zobaczyć aplikację.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## Użyte technologie
 
-## Deploy on Vercel
+- [Next.js](https://nextjs.org/)
+- [React](https://react.dev/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [Git](https://git-scm.com/)
+- [GitHub Actions](https://github.com/features/actions)
+- [Vercel](https://vercel.com/)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Autor
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- **Nikodem Zychma** - [GitHub](https://github.com/nikodem-niq)
+
+## Licencja
+
+Ten projekt jest licencjonowany na podstawie licencji MIT - zobacz plik [LICENSE.md](LICENSE.md) po szczegóły.
