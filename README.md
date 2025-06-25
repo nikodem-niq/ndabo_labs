@@ -1,6 +1,12 @@
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fnikodem-niq%2Fndabo_labs)
+
 # Projekt zaliczeniowy - Nikodem Zychma
 
 Prosta aplikacja stworzona na potrzeby zaliczenia przedmiotu "Narzędzia do automatyzacji budowy oprogramowania". Projekt ten wykorzystuje Next.js i demonstruje podstawowe oraz zaawansowane techniki pracy z Git, GitHub oraz CI/CD.
+
+## Wdrożona Aplikacja
+
+**Link do działającej aplikacji:** [https://ndabo-labs.vercel.app/](https://ndabo-labs.vercel.app/)
 
 ## Funkcjonalności
 
